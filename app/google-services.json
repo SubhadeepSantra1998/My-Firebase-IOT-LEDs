@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "801757520324",
+    "project_id": "my-firebase-iot-fee14",
+    "storage_bucket": "my-firebase-iot-fee14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801757520324:android:f3a763d0aa330c2e1a0491",
+        "android_client_info": {
+          "package_name": "in.astudentzone.myfirebaseiot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801757520324-qoi4tro2l915ebq1kfuvo8e4vehru1bs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_ON0IaZyLZJ_dAbduYQklEx5uQ3fAQIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801757520324-qoi4tro2l915ebq1kfuvo8e4vehru1bs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
